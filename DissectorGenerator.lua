@@ -16,7 +16,8 @@ local function NewDissector()
 		end
 
         -- Placeholder text
-        local payload_template = [[<field1>0101</field1><field2>01010101</field2>]]
+        local payload_template = [[<field1>0101</field1>
+<field2>01010101</field2>]]
         window:set(payload_template)
         window:set_editable(true)
 

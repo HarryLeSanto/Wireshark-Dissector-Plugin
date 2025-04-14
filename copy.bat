@@ -1,1 +1,0 @@
-copy DissectorGenerator.lua C:\Users\Harry\AppData\Roaming\Wireshark\plugins

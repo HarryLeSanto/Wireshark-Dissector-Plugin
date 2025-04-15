@@ -1,10 +1,10 @@
 Using the example packets in "Test Packets.pcapng"
 
 Without the use of the tool:
-Please find the third byte of Field3 from each of the payloads in the 5 packets.
+Please find the third byte of Field3 from at least 2 of the payloads in the 5 packets.
 
 After generating a dissector with the tool:
-Please find the fourth byte of Field4 from each of the payloads in the 5 packets.
+Please find the fourth byte of Field4 from at least 2 of the payloads in the 5 packets.
 
 Optional:
 Manually create a dissector for the test messages, then create one using the tool to see which is easier and/or faster.

@@ -1,4 +1,4 @@
-Using the example packets in "Test Packets.pcapng"
+Using the example packets in "Test Packets.pcapng", and the message structure found in "Message Structure.md":
 
 Without the use of the tool:
 Please find the third byte of Field3 from at least 2 of the payloads in the 5 packets.
